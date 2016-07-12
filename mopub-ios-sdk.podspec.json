@@ -42,7 +42,7 @@
     {
       "name": "MoPubSDK",
       "source_files": ["MoPubSDK/**/*.{h,m}", "AdNetworkSupport/**/*.{h,m}"]
-      "resources": "MoPubSDK/**/*.{png,bundle,xib,nib}",
+      "resources": "MoPubSDK/**/*.{png,bundle,xib,nib}"
     },
     {
       "name": "iAd",
