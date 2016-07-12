@@ -41,7 +41,7 @@
   "subspecs": [
     {
       "name": "MoPubSDK",
-      "source_files": ["MoPubSDK/**/*.{h,m}", "AdNetworkSupport/**/*.{h,m}"],
+      "source_files": "MoPubSDK/**/*.{h,m}",
       "resources": "MoPubSDK/**/*.{png,bundle,xib,nib}"
     },
     {
